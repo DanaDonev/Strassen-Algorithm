@@ -38,11 +38,11 @@ The project is organized into the following default folder structure:
 1. Clone or download the repository from https://github.com/DanaDonev/Strassen-Algorithm.git.
 2. Compile the Java files using your preferred IDE or terminal:
    ```bash
-   javac StrassenMatrixMultiplication.java
+   javac StrassenAlgorithm.java
    ```
 3. Run the program:
    ```bash
-   java StrassenMatrixMultiplication
+   java StrassenAlgorithm
    ```
 4. The program will ask you to enter the matrix size in the terminal. After that, it will generate two matrices, multiply them using Strassen's algorithm, display the result matrix, and show the execution time. 
 
