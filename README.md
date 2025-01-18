@@ -11,7 +11,7 @@ This project implements **Strassen's algorithm** for matrix multiplication in Ja
 - The multiplication result is shown along with the execution time.
 
 - An **identity matrix** can be generated and multiplied by a matrix for verification purposes, ensuring that multiplying any matrix by the identity matrix results in the original matrix.
-- This section of the code is commented out for generating the identity matrix. Line 81 (StrassenAlgorithm.java file) should be uncommented and line 83 (StrassenAlgorithm.java file) should be commented in this case.
+This section of the code is commented out for generating the identity matrix. Line 81 (StrassenAlgorithm.java file) should be uncommented and line 83 (StrassenAlgorithm.java file) should be commented in this case.
 
 
 ## Folder Structure
@@ -54,4 +54,4 @@ The program measures the execution time of the matrix multiplication process and
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is open-source.
